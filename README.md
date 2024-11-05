@@ -1,3 +1,5 @@
+## This repo is no longer maintained! AoTTG2 its development has been continued at a new repo, found at: https://github.com/AoTTG-2/Aottg2-Unity
+
 # AoTTG-2
 
 [![Discord](https://img.shields.io/discord/681641241125060652.svg)](https://discord.gg/GhbNbvU)  
